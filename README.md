@@ -10,7 +10,6 @@
 
 ## Hi, I'm Svetlana Kuznetsova :wave:
 
----
 
 I'm an NLP Engineer from Russia. 
 - I'm working on my pet projects applying DS methods to natural language problems
