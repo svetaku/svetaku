@@ -13,5 +13,5 @@
 
 I'm an NLP Engineer from Russia. 
 - I'm working on my pet projects applying DS methods to natural language problems
-- Honing my Python and ML skills
+- Honing my Python, text processing, and ML skills
 - Reach me at sv.vl.kuznetsova@gmail.com or [![Telegram Badge](https://img.shields.io/badge/-ssvetaku-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ssvetaku)
